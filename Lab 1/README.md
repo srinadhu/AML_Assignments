@@ -1,7 +1,7 @@
 
 First download the data by running [this.](csl712/datasets/get_datasets.sh) All the details about the lab can be found from [here.](lab.pdf) 
 
-1. First run [Logistic Regression](Lab\s1/LogisticRegression.ipynb)
+1. First run [Logistic Regression](LogisticRegression.ipynb)
 
 
 
